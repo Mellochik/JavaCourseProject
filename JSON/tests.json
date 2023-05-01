@@ -1,0 +1,145 @@
+[ {
+  "sentence" : "Bob robbed the bank.",
+  "theme" : "Past Simple",
+  "difficulty" : "Easy"
+}, {
+  "sentence" : "I did the laundry.",
+  "theme" : "Past Simple",
+  "difficulty" : "Easy"
+}, {
+  "sentence" : "He saw a helicopter.",
+  "theme" : "Past Simple",
+  "difficulty" : "Easy"
+}, {
+  "sentence" : "I did my homework last sunday.",
+  "theme" : "Past Simple",
+  "difficulty" : "Medium"
+}, {
+  "sentence" : "Luka made a strawberry icecream.",
+  "theme" : "Past Simple",
+  "difficulty" : "Medium"
+}, {
+  "sentence" : "My friends and I went to the cinema last night.",
+  "theme" : "Past Simple",
+  "difficulty" : "Hard"
+}, {
+  "sentence" : "I made a chicken pasta at my friend's house.",
+  "theme" : "Past Simple",
+  "difficulty" : "Hard"
+}, {
+  "sentence" : "Was anyone in the building when you left?.",
+  "theme" : "Past Simple",
+  "difficulty" : "Hard"
+}, {
+  "sentence" : "I think it will rain this evening.",
+  "theme" : "Future Simple",
+  "difficulty" : "Medium"
+}, {
+  "sentence" : "There will be a music festival next month.",
+  "theme" : "Future Simple",
+  "difficulty" : "Hard"
+}, {
+  "sentence" : "I will visit you tomorrow.",
+  "theme" : "Future Simple",
+  "difficulty" : "Easy"
+}, {
+  "sentence" : "My friend and I play the guitar every day.",
+  "theme" : "Present Simple",
+  "difficulty" : "Easy"
+}, {
+  "sentence" : "We have a flat in London.",
+  "theme" : "Present Simple",
+  "difficulty" : "Medium"
+}, {
+  "sentence" : "Vegetarians do not eat meat.",
+  "theme" : "Present Simple",
+  "difficulty" : "Easy"
+}, {
+  "sentence" : "I took a photo when Marina was playing the piano.",
+  "theme" : "Past Continues",
+  "difficulty" : "Medium"
+}, {
+  "sentence" : "They weren't looking at the clock during the test.",
+  "theme" : "Past Continues",
+  "difficulty" : "Medium"
+}, {
+  "sentence" : "Emma and Beth weren't studying when I came to visit them.",
+  "theme" : "Past Continues",
+  "difficulty" : "Hard"
+}, {
+  "sentence" : "This time next week we'll be flying to London.",
+  "theme" : "Future Continues",
+  "difficulty" : "Medium"
+}, {
+  "sentence" : "This time next month we will be lying on the beach.",
+  "theme" : "Future Continues",
+  "difficulty" : "Medium"
+}, {
+  "sentence" : "Will your brother be waiting for you at the airport?",
+  "theme" : "Future Continues",
+  "difficulty" : "Hard"
+}, {
+  "sentence" : "Are you studying English now?",
+  "theme" : "Present Continues",
+  "difficulty" : "Easy"
+}, {
+  "sentence" : "Me and my friends are not drinking coffee now.",
+  "theme" : "Present Continues",
+  "difficulty" : "Easy"
+}, {
+  "sentence" : "I am not listening to music at the moment.",
+  "theme" : "Present Continues",
+  "difficulty" : "Easy"
+}, {
+  "sentence" : "This is the best place I have ever been to.",
+  "theme" : "Present Perfect",
+  "difficulty" : "Medium"
+}, {
+  "sentence" : "I have read this book.",
+  "theme" : "Present Perfect",
+  "difficulty" : "Easy"
+}, {
+  "sentence" : "He has won the competition.",
+  "theme" : "Present Perfect",
+  "difficulty" : "Easy"
+}, {
+  "sentence" : "In the shopping mall I met a friend who I hadn't seen for ages.",
+  "theme" : "Past Perfect",
+  "difficulty" : "Hard"
+}, {
+  "sentence" : "By the time the guests came the table hadn't been served yet.",
+  "theme" : "Past Perfect",
+  "difficulty" : "Hard"
+}, {
+  "sentence" : "What had you done by 6 o'clock?",
+  "theme" : "Past Perfect",
+  "difficulty" : "Medium"
+}, {
+  "sentence" : "He'll have had his lunch by 3pm.",
+  "theme" : "Future Perfect",
+  "difficulty" : "Easy"
+}, {
+  "sentence" : "I won't have read this book by the end of this week.",
+  "theme" : "Future Perfect",
+  "difficulty" : "Medium"
+}, {
+  "sentence" : "Will he have gone to bed by 11 o'clock?",
+  "theme" : "Future Perfect",
+  "difficulty" : "Medium"
+}, {
+  "sentence" : "Did it can change color?",
+  "theme" : "Past Simple",
+  "difficulty" : "Easy"
+}, {
+  "sentence" : "They saw fish in the oceanarium.",
+  "theme" : "Past Simple",
+  "difficulty" : "Medium"
+}, {
+  "sentence" : "She plays with a ball.",
+  "theme" : "Present Simple",
+  "difficulty" : "Easy"
+}, {
+  "sentence" : "Mike eats a red apple.",
+  "theme" : "Present Simple",
+  "difficulty" : "Easy"
+} ]

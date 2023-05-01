@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testSet>
+    <test>
+        <sentence>She plays with a ball.</sentence>
+        <theme>1</theme>
+        <difficulty>1</difficulty>
+    </test>
+    <test>
+        <sentence>Mike eats a red apple.</sentence>
+        <theme>1</theme>
+        <difficulty>1</difficulty>
+    </test>
+</testSet>
